@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyoo130&count_private=true&show_icons=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
