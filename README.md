@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   <br><br><br>
    
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D3CAE7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+KyooMin.+%E3%80%80%E3%80%80)]()
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D3CAE7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+KyooMin.+%E3%80%80%E3%80%80)](https://github.com/Kyoo130)
   
   <br><br><br>
    <div>
@@ -32,13 +32,13 @@ Here are some ideas to get you started:
   <br><br>
   </div>
     
-  <a href="#none">
+  <a href="https://github.com/Kyoo130">
     <img src="https://github-readme-stats.vercel.app/api?username=Kyoo130&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff" width=49.2% />
   </a>
-  <a href="h#none">
+  <a href="https://github.com/Kyoo130">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Kyoo130&theme=react&ring=C691E94D&fire=C691E9&sideNums=C691E9&currStreakNum=C691E9&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=E3E3E3A8&hide_border=true" width=49.2% />
   </a>
-  <a href="#none">
+  <a href="https://github.com/Kyoo130">
   <img src="https://activity-graph.herokuapp.com/graph?username=Kyoo130&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
   </a>
     </div>
